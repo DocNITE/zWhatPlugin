@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  Interface.cpp
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CMouse.h(26,17): warning C4244: =: преобразование "int32_t" в "Gothic_II_Addon::zREAL", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CMouse.h(27,17): warning C4244: =: преобразование "int32_t" в "Gothic_II_Addon::zREAL", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(94,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(95,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(96,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(101,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(102,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(103,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(108,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(109,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(110,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(115,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(116,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CStatusBar.cpp(117,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CFocus.cpp(28,42): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CFocus.cpp(37,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CFocus.cpp(38,43): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CFocus.cpp(40,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CFocus.cpp(567,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Documents\Visual Studio 2019\My Exported Templates\Union SDK\CFocus.cpp(568,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  UnionPlugin100k.vcxproj -> E:\Gothic II\System\Autorun\UnionPlugin100k.dll
